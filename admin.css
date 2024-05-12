@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: aliceblue;
+    line-height: 80px;
+    padding-left: 30px;
+    font-size: 30px;
+    
+}
+a, a:hover{
+    text-decoration: none! important;
+}
+.logout{
+    float: right;
+    padding-right: 30px;
+}
+ul{
+    background-color: brown;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+    text-align: center;
+
+
+}
+ul li{
+    list-style: none;
+    padding-bottom: 30x;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+ul li a{
+    color: aliceblue;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: aqua;
+    text-decoration: none;
+}
+.content{
+    margin-left: 25%;
+    margin-top: 5%;
+}
